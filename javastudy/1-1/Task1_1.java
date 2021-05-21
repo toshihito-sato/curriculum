@@ -22,7 +22,7 @@ public class Task1_1 {
         System.out.println(hogeInt);
 
         // ⑦下記の処理について、何をしているのかコメントを記入してください
-        // [hogeStringの値を表示している]
+        // [hogeStringの値を表示している.]
         System.out.println(hogeString);
 
         // ⑧変数 hogeDouble の値を表示
