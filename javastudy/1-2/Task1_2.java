@@ -19,7 +19,7 @@ public class Task1_2 {
         System.out.println(strArray[1]);
 
         /* ⑤下記の処理について、何をしているのかコメントを記入してください。
-         *  [要素数５のintクラスの配列intArrayを定義]
+         *  [intArrayという名前のint型の配列を宣言し｛｝内の数で初期化]
          */
         int[] intArray = { 10, 20, 30, 40, 50 };
 
