@@ -41,6 +41,7 @@ public class Task1_5 {
             }
             System.out.println();
         }
+        
 
     }
 }
