@@ -1,0 +1,58 @@
+@media screen and (max-width:767px){
+    .header{
+        width:300px;
+    }
+
+    .left{
+        width:100px;
+    }
+
+    .Uleft{
+        width:125px;
+    }
+    .Uright{
+        width:75px;
+    }
+
+    .Rdown{
+        width:200px;
+    }
+
+    .fotter{
+        width:300px;
+    }
+}
+
+
+@media screen and (max-width:479px){
+    .header{
+        width:150px;
+    }
+
+    .left{
+        width:150px;
+    }
+
+    .Uright{
+        width:150px;
+    }
+
+    .Uleft{
+        width:150px;
+    }
+
+    .Rdown{
+        width:150px;
+    }
+
+    .fotter{
+        width:150px;
+    }
+
+    .main{
+        float: none;
+    }
+    .Rupper{
+        float: none;
+    }
+}
