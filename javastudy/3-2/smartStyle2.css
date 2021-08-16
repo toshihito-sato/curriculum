@@ -31,14 +31,20 @@
 
     .left{
         width:150px;
+        float: none;
+    }
+    .right{
+        float: none;
     }
 
     .Uright{
         width:150px;
+        float: none;
     }
 
     .Uleft{
         width:150px;
+        float: none;
     }
 
     .Rdown{
@@ -47,12 +53,5 @@
 
     .fotter{
         width:150px;
-    }
-
-    .main{
-        float: none;
-    }
-    .Rupper{
-        float: none;
     }
 }
