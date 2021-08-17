@@ -20,24 +20,24 @@
     float: left;
 }
 
-.ULup{
+.RULup{
     width:150px;
     height:50px;
     background-color: #dbd400;
 }
 
-.ULdown{
+.RULdown{
     width:150px;
     height:100px;
     background-color: #0093b7;
 }
 
 
-.Uleft{
+.RUleft{
     float: left;
 }
 
-.Uright{
+.RUright{
     width:100px;
     height:150px;
     background-color: #ff9a6b;

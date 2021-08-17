@@ -7,10 +7,10 @@
         width:100px;
     }
 
-    .Uleft{
+    .RUleft{
         width:125px;
     }
-    .Uright{
+    .RUright{
         width:75px;
     }
 
@@ -37,14 +37,22 @@
         float: none;
     }
 
-    .Uright{
-        width:150px;
-        float: none;
+
+    .Rupper{
+        display: flex;
+        flex-direction: column;
     }
 
-    .Uleft{
+    .RUright{
         width:150px;
         float: none;
+        order: 1;
+    }
+
+    .RUleft{
+        width:150px;
+        float: none;
+        order: 2;
     }
 
     .Rdown{
