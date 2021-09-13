@@ -12,7 +12,7 @@
 <!-- name、idの入力エリアを作成しなさい -->
 <div class="header"><%@ include file="header.jsp"%></div>
 
-<table>
+<table class="main">
 	<tr>
 		<th>name</th>
 		<td><input type="text"></td>
