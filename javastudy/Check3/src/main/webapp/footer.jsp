@@ -8,8 +8,9 @@
 </head>
 <body>
 
-<!-- フッターを作成 -->
-hoge.Inc
+<div class=footer>
+<label class=hoge>hoge.Inc</label>
+</div>
 
 </body>
 </html>

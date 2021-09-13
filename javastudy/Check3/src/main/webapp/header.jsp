@@ -7,16 +7,18 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+
 </head>
 <body>
 
-<div>
-login
-
-<% Date date = new Date();
+<div class=header>
+	<label class=login>login</label>
+	<label class=date>
+		<% Date date = new Date();
       SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd");
       String formatDate = sdf.format(date);%>
    <%= formatDate %>
+	</label>
 </div>
 
 </body>

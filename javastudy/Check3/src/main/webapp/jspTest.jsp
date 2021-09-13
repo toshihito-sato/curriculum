@@ -12,14 +12,14 @@
 <!-- name、idの入力エリアを作成しなさい -->
 <div class="header"><%@ include file="header.jsp"%></div>
 
-<table border=1>
+<table>
 	<tr>
 		<th>name</th>
-		<td>         </td>
+		<td><input type="text"></td>
 	</tr>
 	<tr>
 		<th>id</th>
-		<td>        </td>
+		<td><input type="text"></td>
 	</tr>
 </table>
 

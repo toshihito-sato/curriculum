@@ -1,17 +1,19 @@
 @charset "UTF-8";
 
 .header{
-	
-background-color: gray;
-
-display: inline-block;
-padding: 10px;
-color: white;
-
-padding: 10px;
-font-size: 10px;
+	background-color: gray;
 }
 
+.login{
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+.date{
+	padding: 10px;
+	font-size: 10px;
+}
 
 .table{
 	padding-top: 50px;
@@ -20,9 +22,11 @@ padding-bottom: 50px;
 
 
 .footer{
-background-color: gray;
+	background-color: gray;
+}
 
-display: inline-block;
-padding: 10px;
-color: white;
+.hoge{
+	display: inline-block;
+	padding: 10px;
+	color: white;
 }
